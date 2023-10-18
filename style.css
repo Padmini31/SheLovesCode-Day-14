@@ -1,0 +1,47 @@
+body{
+  padding: 1px;
+}
+.title {
+	color: #5C6AC4;
+}
+input{
+  
+  background-color: blue;
+ border:1px solid black;
+ color:pink;
+ margin:1%;
+ padding:1%;
+ font-size: 15px;
+}
+form{
+  border:1px solid green;
+ padding:2% 0 0 2%;
+}
+h2{
+  text-align: center;
+  border:1px solid blue;
+  background-color: pink;
+  width:auto;
+}
+label{
+  color:blue;
+  font-weight: 600;
+  
+}
+button{
+  color:blue;
+  background-color: yellow;
+  font-weight:700;
+  margin:4% 0;
+  padding: 2%;
+
+  
+  
+}
+p{
+    color:green;
+}
+
+#mulfile{
+    margin:0px;
+}
